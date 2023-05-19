@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomasHeyneman
-- 👀 I’m interested in Software developing, Artificial Intelligence, music and sports
+- 👀 I have a big interest in software development and the possibilities of AI
 - 🌱 I’m currently studying Artificial Intelligence
 - 📫 How to reach me --> private e-mail: tomas.heyn@outlook.com 
 
